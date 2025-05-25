@@ -105,4 +105,4 @@ Proyek ini tidak memiliki lisensi eksplisit yang ditentukan. Anda dapat menambah
 
 ## 📧 Kontak
 
-Nama Anda - [Email Anda/Tautan Profil LinkedIn/Tautan Portofolio]
+Jeremya Tampubolon- [jeremiatampubolon025@gmail.com//[Linkedin](https://www.linkedin.com/in/jeremya-tampubolon-a0681829a/)]
