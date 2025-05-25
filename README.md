@@ -36,8 +36,8 @@ Untuk menjalankan aplikasi ini di lingkungan lokal Anda, ikuti langkah-langkah b
 2.  **Kloning Repositori (jika dari Git):**
     Jika proyek ini ada di GitHub, kloning repositori:
     ```bash
-    git clone [https://github.com/](https://github.com/)[YourUsername]/[YourRepositoryName].git
-    cd [YourRepositoryName]
+    git clone https://github.com/jeremyfasollasido/Basic-Student-Data-Management.git
+    cd Basic-Student-Data-Management
     ```
     Atau unduh file proyek secara langsung.
 
